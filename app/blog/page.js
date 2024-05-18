@@ -31,11 +31,16 @@ const fetchBlogData = async () =>{
        
        
    }`
+   console.log("hii")
   const blogs = await client.fetch(blogsQuery);
+  console.log(blogs)
   return blogs
+  
 }
   
-
+export const dynamic = 'auto'
+export const dynamicParams = true
+export const revalidate = 0
 const BlogPage = async () => {
   const blogs = await fetchBlogData()
   

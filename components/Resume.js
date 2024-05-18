@@ -30,8 +30,8 @@ const Resume = () => {
                     </div>
                     <div className="content">
                       <span className="years">October 2023 - Present </span>
-                      <h4>TryHackMe</h4>
-                      
+                      <h4>Ctf player</h4>
+                      <h6>Try Hack Me</h6>
                       <span className="company">Mumbai, Maharashtra, India</span>
                       <p>Distinguished and seasoned Penetration Tester with 2 years of extensive expertise in orchestrating penetration tests, meticulously conducting vulnerability assessments, and executing rigorous security audits. Harshad Pawar has garnered widespread acclaim for his exceptional ability to methodically identify and remediate critical security vulnerabilities across a multifaceted spectrum of systems, networks, and applications.</p>
                     </div>
@@ -45,7 +45,7 @@ const Resume = () => {
                     <div className="content">
                       <span className="years">February 2021 - April 2023</span>
                       <h4>Penetration Tester</h4>
-                      
+                      <h6>Cyber Forensics & Investigation</h6>
                       <span className="company">Mumbai, Maharashtra, India</span>
                       <p>Conducted thorough and methodical penetration tests across diverse
 systems, networks, and applications, employing industry-leading tools and methodologies.
@@ -62,7 +62,7 @@ Offered strategic insights and actionable recommendations to stakeholders, guidi
                     <div className="content">
                       <span className="years">December 2020 - January 2021</span>
                       <h4>Intern</h4>
-                      
+                      <h6>Cyber Forensics & Investigation</h6>
                       <span className="company">Mumbai, Maharashtra, India</span>
                       <p>Assisted in incident response activities, including monitoring security events and investigating potential breaches.
 Contributed to the development and refinement of security policies,

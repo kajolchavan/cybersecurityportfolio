@@ -49,11 +49,11 @@ const Projects = () => {
               <span className="sub-title">Multifactor Authentication System</span>
               <h2>
                 <Link legacyBehavior href="project-details">
-                  Lock & Key
+                Protectium
                 </Link>
               </h2>
               <p>
-                Developed within the domain of cybersecurity, "Lock & Key" is a robust multi-factor authentication system designed to fortify user access control by integrating multiple layers of security. This innovative system enhances traditional authentication mechanisms by incorporating four distinct levels of validation: conventional username and password credentials, pattern-based passwords, pre-set image click verification, and cutting-edge facial recognition technology. Each layer is strategically designed to increase security redundancy, ensuring that user identities are verified with precision and reliability. The project demonstrates a sophisticated approach to modern security challenges, leveraging a combination of proven and emerging technologies to protect sensitive data and prevent unauthorized access.
+              Protectium is an advanced web-based Multi-Factor Authentication (MFA) system designed to enhance security for online applications and accounts. By requiring users to verify their identity using three distinct factors, Protectium significantly reduces the risk of unauthorized access, thus strengthening the security of online interactions. This comprehensive system is tailored to improve user engagement and customer relationships through secure, accessible account management. Recent deployments of Protectium have shown a 25% increase in positive user feedback and a 15% boost in engagement, alongside a remarkable 40% improvement in security metrics.
               </p>
               
             </div>

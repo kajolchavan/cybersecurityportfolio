@@ -3,7 +3,7 @@ import { client, urlFor } from "@/cms/lib/client";
 import Link from "next/link";
 
 const BlogMain = ({blogs}) => {
-    console.log(blogs)
+    
   return (
     <div>
            <section className="blog-standard-area pb-70 rpb-40 pb-130 rpb-100 rel z-1">
@@ -14,7 +14,7 @@ const BlogMain = ({blogs}) => {
                 <div className="row">
                 {
                     blogs?.length !== 0 && blogs?.map((blog)=>(
-                        <div className="col-md-6 col-lg-4 item">
+                        <div key={blog._id} className="col-md-6 col-lg-4 item">
                     <div className="blog-item style-two wow fadeInUp delay-0-2s">
                       <div className="image">
                       {blog?.coverImage &&  <img
@@ -73,6 +73,8 @@ const BlogMain = ({blogs}) => {
     </div>
   )
 }
+
+
 
 
 
