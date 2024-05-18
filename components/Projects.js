@@ -27,9 +27,9 @@ const Projects = () => {
             <div className="project-content wow fadeInRight delay-0-2s">
               <span className="sub-title">Artificial Intelligence</span>
               <h2>
-                <Link legacyBehavior href="project-details">
+              
                 L.U.C.I.F.E.R
-                </Link>
+                
               </h2>
               <p>
                 Developed an innovative artificial intelligence system designed to enhance daily productivity and user interaction through seamless voice commands. This versatile AI integrates advanced natural language processing techniques to accurately interpret and execute a variety of tasks including making calls, sending texts and emails, playing music, managing applications, and system shutdowns. The project showcases my expertise in AI and software development, reflecting a deep understanding of user-centered design and system integration, aimed at creating intuitive and efficient human-computer interactions.
@@ -48,9 +48,9 @@ const Projects = () => {
             <div className="project-content wow fadeInRight delay-0-2s">
               <span className="sub-title">Multifactor Authentication System</span>
               <h2>
-                <Link legacyBehavior href="project-details">
+               
                 Protectium
-                </Link>
+              
               </h2>
               <p>
               Protectium is an advanced web-based Multi-Factor Authentication (MFA) system designed to enhance security for online applications and accounts. By requiring users to verify their identity using three distinct factors, Protectium significantly reduces the risk of unauthorized access, thus strengthening the security of online interactions. This comprehensive system is tailored to improve user engagement and customer relationships through secure, accessible account management. Recent deployments of Protectium have shown a 25% increase in positive user feedback and a 15% boost in engagement, alongside a remarkable 40% improvement in security metrics.
@@ -70,9 +70,9 @@ const Projects = () => {
             <div className="project-content wow fadeInRight delay-0-2s">
               <span className="sub-title">Cybersecurity</span>
               <h2>
-                <Link legacyBehavior href="project-details">
+               
                   Vulnerability Scanner
-                </Link>
+               
               </h2>
               <p>
                Initiated and executed a project focused on the development of a sophisticated vulnerability scanner designed to identify and evaluate known security weaknesses in systems and applications. This project entailed the creation of a custom scanning tool that leverages automated scripts to efficiently and accurately detect vulnerabilities, streamlining the process of security assessment. Throughout this project, I honed key skills in understanding common security vulnerabilities, advanced scripting techniques, and automation processes. The resulting scanner contributes significantly to proactive security measures by enabling timely identification and mitigation of potential threats.
