@@ -29,11 +29,14 @@ const Resume = () => {
                       <i className="far fa-arrow-right" />
                     </div>
                     <div className="content">
-                      <span className="years">October 2023 - Present </span>
-                      <h4>Ctf player</h4>
-                      <h6>Try Hack Me</h6>
+                      <span className="years">From Jul 2023- July 2024 </span>
+                      <h4>Penetration tester</h4>
+                      <h6>ASYNK</h6>
                       <span className="company">Mumbai, Maharashtra, India</span>
-                      <p>Distinguished and seasoned Penetration Tester with 2 years of extensive expertise in orchestrating penetration tests, meticulously conducting vulnerability assessments, and executing rigorous security audits. Harshad Pawar has garnered widespread acclaim for his exceptional ability to methodically identify and remediate critical security vulnerabilities across a multifaceted spectrum of systems, networks, and applications.</p>
+                      <p>* Led a team of 5 penetration testers in conducting comprehensive security assessments across web applications, networks, and cloud environments. <br />
+* Developed and executed penetration testing methodologies, frameworks, and tools to identify vulnerabilities and simulate real-world attack scenarios.<br />
+* Collaborated closely with cross-functional teams to implement remediation strategies and improve overall security posture.<br />
+* Provided expert guidance and mentorship to junior team members, fostering professional growth and enhancing team capabilities.</p>
                     </div>
                   </div>
                 </div>
@@ -43,31 +46,29 @@ const Resume = () => {
                       <i className="far fa-arrow-right" />
                     </div>
                     <div className="content">
-                      <span className="years">February 2021 - April 2023</span>
-                      <h4>Penetration Tester</h4>
-                      <h6>Cyber Forensics & Investigation</h6>
-                      <span className="company">Mumbai, Maharashtra, India</span>
-                      <p>Conducted thorough and methodical penetration tests across diverse
-systems, networks, and applications, employing industry-leading tools and methodologies.
-Identified and reported critical vulnerabilities, encompassing SQL injection, cross-site scripting (XSS), and privilege escalation, facilitating proactive risk mitigation strategies.
-Offered strategic insights and actionable recommendations to stakeholders, guiding effective remediation efforts and enhancing overall security resilience.</p>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-xl-12 col-md-12">
-                  <div className="resume-item wow fadeInUp delay-0-3s">
-                    <div className="icon">
-                      <i className="far fa-arrow-right" />
-                    </div>
-                    <div className="content">
-                      <span className="years">December 2020 - January 2021</span>
+                      <span className="years">Nov 2022- Dec 2022</span>
                       <h4>Intern</h4>
-                      <h6>Cyber Forensics & Investigation</h6>
+                      <h6>KaaShiv Infotech</h6>
                       <span className="company">Mumbai, Maharashtra, India</span>
-                      <p>Assisted in incident response activities, including monitoring security events and investigating potential breaches.
-Contributed to the development and refinement of security policies,
-procedures, and guidelines.
-Organized and delivered security awareness training sessions for employees to promote a culture of security awareness.</p>
+                      <p>Gained hands-on experience in cybersecurity over a 2-month internship.
+Conducted vulnerability assessments, penetration tests, and incident response. 
+Utilized tools like Metasploit, Burp Suite, and Wireshark. Assisted in developing cybersecurity policies and collaborated with a professional team to enhance security measures.</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="col-xl-12 col-md-12">
+                  <div className="resume-item wow fadeInUp delay-0-3s">
+                    <div className="icon">
+                      <i className="far fa-arrow-right" />
+                    </div>
+                    <div className="content">
+                      <span className="years">Aug 2021- Oct 2021 </span>
+                      <h4>Intern</h4>
+                      <h6>Verzeo</h6>
+                      <span className="company">Mumbai, Maharashtra, India</span>
+                      <p>* Assisted in conducting vulnerability assessments and penetration testing to identify and mitigate security risks. <br />
+* Contributed to the development and implementation of cybersecurity policies and procedures. <br />
+* Participated in incident response activities, including analyzing security breaches and recommending corrective actions.</p>
                     </div>
                   </div>
                 </div>
