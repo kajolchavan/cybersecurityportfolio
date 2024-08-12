@@ -61,7 +61,7 @@ const page = () => {
                     </li>
                     <li>
                       <i className="far fa-phone" />{" "}
-                      <a href="callto:+447741942710">+44 7741 942710</a>
+                      <a href="callto:+447741942710">+91 7718040920</a>
                     </li>
                   </ul>
                 </div>
