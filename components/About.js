@@ -11,7 +11,7 @@ const About = () => {
                 <div className="section-title mb-35 wow fadeInUp delay-0-2s">
                   <span className="sub-title mb-15">About Me</span>
                   <h2>
-                  Penetration  <span>Tester and</span> Cybersecurity Expert
+                  Penetration  <span>Tester and</span> Bug Hunter
                   </h2>
                   <p>
                   As a penetration tester, I simulate cyberattacks to identify and fix vulnerabilities in systems. As a cybersecurity expert, I specialize in protecting data and networks from unauthorized access and cyber threats, ensuring overall digital security.

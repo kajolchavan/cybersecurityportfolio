@@ -33,45 +33,14 @@ const Resume = () => {
                       <h4>Penetration tester</h4>
                       <h6>ASYNK</h6>
                       <span className="company">Mumbai, Maharashtra, India</span>
-                      <p>* Led a team of 5 penetration testers in conducting comprehensive security assessments across web applications, networks, and cloud environments. <br />
-* Developed and executed penetration testing methodologies, frameworks, and tools to identify vulnerabilities and simulate real-world attack scenarios.<br />
-* Collaborated closely with cross-functional teams to implement remediation strategies and improve overall security posture.<br />
-* Provided expert guidance and mentorship to junior team members, fostering professional growth and enhancing team capabilities.</p>
+                      <p>* Conducted penetration tests on web applications, APIs, networks, and mobile platforms to identify and report security vulnerabilities.<br />
+*  Contributed to the development of testing methodologies and used a variety of tools and scripts to simulate real-world attack scenarios.<br />
+* Collaborated with developers and security teams to validate findings, support remediation efforts, and improve overall security practices.<br />
+*  Actively engaged in bug bounty programs, reporting valid vulnerabilities to major platforms and continuously improving technical skills.</p>
                     </div>
                   </div>
                 </div>
-                <div className="col-xl-12 col-md-12">
-                  <div className="resume-item wow fadeInUp delay-0-3s">
-                    <div className="icon">
-                      <i className="far fa-arrow-right" />
-                    </div>
-                    <div className="content">
-                      <span className="years">Nov 2022- Dec 2022</span>
-                      <h4>Intern</h4>
-                      <h6>KaaShiv Infotech</h6>
-                      <span className="company">Mumbai, Maharashtra, India</span>
-                      <p>Gained hands-on experience in cybersecurity over a 2-month internship.
-Conducted vulnerability assessments, penetration tests, and incident response. 
-Utilized tools like Metasploit, Burp Suite, and Wireshark. Assisted in developing cybersecurity policies and collaborated with a professional team to enhance security measures.</p>
-                    </div>
-                  </div>
-                </div>
-                <div className="col-xl-12 col-md-12">
-                  <div className="resume-item wow fadeInUp delay-0-3s">
-                    <div className="icon">
-                      <i className="far fa-arrow-right" />
-                    </div>
-                    <div className="content">
-                      <span className="years">Aug 2021- Oct 2021 </span>
-                      <h4>Intern</h4>
-                      <h6>Verzeo</h6>
-                      <span className="company">Mumbai, Maharashtra, India</span>
-                      <p>* Assisted in conducting vulnerability assessments and penetration testing to identify and mitigate security risks. <br />
-* Contributed to the development and implementation of cybersecurity policies and procedures. <br />
-* Participated in incident response activities, including analyzing security breaches and recommending corrective actions.</p>
-                    </div>
-                  </div>
-                </div>
+               
               </div>
             </div>
           </div>
